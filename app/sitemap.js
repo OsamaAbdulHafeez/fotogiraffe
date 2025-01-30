@@ -20,7 +20,7 @@ const staticRoutes = [
   "/theme/memory-photo-books", // Memory Photo Books
 ];
 
-const baseUrl = "https://fotogiraffe.vercel.app/";
+const baseUrl = "https://fotogiraffeeee.vercel.app/";
 
 export default function generateSitemap() {
   const staticUrls = staticRoutes.map((route) => ({
